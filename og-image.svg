@@ -25,20 +25,20 @@
 
   <!-- Tag label top -->
   <rect x="80" y="82" width="44" height="1" fill="rgba(255,255,255,.25)"/>
-  <text x="134" y="87" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="600" fill="rgba(255,255,255,.45)" letter-spacing="3.5">BUILDING · CONNECTING · EMPOWERING AFRICA</text>
+  <text x="134" y="87" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="600" fill="rgba(255,255,255,.45)" letter-spacing="3.5">E-GOVERNMENT · CYBERSECURITY · AI · ICT INFRASTRUCTURE</text>
 
   <!-- APX — large display -->
   <text x="76" y="270" font-family="Georgia,'Times New Roman',serif" font-size="168" font-weight="700" fill="#ffffff" letter-spacing="-5">APX</text>
 
   <!-- Global — italic -->
-  <text x="82" y="385" font-family="Georgia,'Times New Roman',serif" font-size="102" font-style="italic" fill="rgba(255,255,255,.88)" letter-spacing="-2">Global</text>
+  <text x="82" y="370" font-family="Georgia,'Times New Roman',serif" font-size="80" font-style="italic" fill="rgba(255,255,255,.88)" letter-spacing="-1">Digital Infrastructure.</text>
 
   <!-- Red separator line -->
-  <rect x="80" y="418" width="90" height="3" rx="1.5" fill="#e01f26"/>
+  <rect x="80" y="400" width="90" height="3" rx="1.5" fill="#e01f26"/>
 
   <!-- Description -->
-  <text x="80" y="474" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="rgba(255,255,255,.52)">Digital infrastructure engineered for government</text>
-  <text x="80" y="502" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="rgba(255,255,255,.52)">and enterprise across Africa.</text>
+  <text x="80" y="456" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="rgba(255,255,255,.52)">Engineered for government and enterprise.</text>
+  <text x="80" y="484" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="rgba(255,255,255,.52)">African Scale.</text>
 
   <!-- Domain -->
   <text x="80" y="578" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="rgba(255,255,255,.28)" letter-spacing="2.5">APX-GLOBAL.NET</text>
